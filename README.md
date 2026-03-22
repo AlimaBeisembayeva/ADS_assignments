@@ -32,7 +32,7 @@
 * **Screen:** ![task9.png](screens/task9.png)
 ### Task 10: Greatest Common Divisor (GCD)
 * **Description:** Finds GCD of two numbers using the Euclidean Algorithm and recursion.
-* **Screen:** ![task_10.png](screens/task_10.png)
+* **Screen:** ![Task10.png](screens/Task10.png)
 
 ## Work Process Summary
 In this assignment, I learn how to solve arithmetic and other problems without using loops. Also I found out new functions such as: "!Character", "charAt", "substring" and etc. and learn how to use them and their function.
