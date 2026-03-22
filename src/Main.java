@@ -148,6 +148,7 @@ public static void main(String[] args){
      */
 
 
+    /*Task 10
     public static int gcd(int n, int m){
         if (m==0) return n;
         return gcd(m, n%m);
@@ -160,7 +161,7 @@ public static void main(String[] args){
         int y=a.nextInt();
         System.out.println(gcd(x, y));
     }
-
+*/
 
 
 
